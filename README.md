@@ -1,1 +1,1 @@
-# QR-based-Hostel-gatepaas-system
+# Hosteller-GatePass-System
